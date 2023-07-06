@@ -14,6 +14,10 @@ To utilize maps and sets to implement a reusable graph library with a nice inter
 
 ## Roadmap
 - [ ] Remove Nodes and Edges from Graph
+- [ ] Graph Algorithms
+  - [ ] [Topological Sorting](https://en.wikipedia.org/wiki/Topological_sorting)
+  - [ ] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search)
+  - [ ] [Breadth Fist Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search)
 - [ ] Caraya Unit Tests
 - [ ] Build out Example VI Hierarchy Browser
 - [ ] Performance Benchmarking and Optimization
