@@ -18,4 +18,5 @@
 	<Item Name="Node.lvclass" Type="LVClass" URL="../api/Node/Node.lvclass"/>
 	<Item Name="Edge.lvclass" Type="LVClass" URL="../api/Edge/Edge.lvclass"/>
 	<Item Name="api_vi_tree.vi" Type="VI" URL="../api_vi_tree.vi"/>
+	<Item Name="remove from map of sets.vim" Type="VI" URL="../support/remove from map of sets.vim"/>
 </Library>
